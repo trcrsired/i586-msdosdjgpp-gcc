@@ -1,0 +1,21 @@
+This is a canadian compiled GCC compiler. Built by the fast_io library's author
+
+Unix Timestamp:1687038195.028823695
+UTC:2023-06-17T21:43:15.028823695Z
+
+fast_io:
+https://github.com/cppfastio/fast_io
+
+build	:	x86_64-linux-gnu
+host	:	x86_64-w64-mingw32
+target	:	i586-msdosdjgpp-g++
+
+i586-msdosdjgpp-g++ -v
+Using built-in specs.
+COLLECT_GCC=i586-msdosdjgpp-g++
+COLLECT_LTO_WRAPPER=D:/toolchains/gnu/x86_64-w64-mingw32/i586-msdosdjgpp/bin/../libexec/gcc/i586-msdosdjgpp/14.0.0/lto-wrapper.exe
+Target: i586-msdosdjgpp
+Configured with: /home/cqwrteur/toolchains_build/gcc/configure --disable-nls --disable-werror --enable-languages=c,c++ --enable-multilib --with-gxx-libcxx-include-dir=/home/cqwrteur/toolchains/x86_64-w64-mingw32/i586-msdosdjgpp/i586-msdosdjgpp/include/c++/v1 --prefix=/home/cqwrteur/toolchains/x86_64-w64-mingw32/i586-msdosdjgpp --build=x86_64-pc-linux-gnu --host=x86_64-w64-mingw32 --target=i586-msdosdjgpp --disable-bootstrap --disable-libstdcxx-verbose --with-libstdcxx-eh-pool-obj-count=0 --disable-sjlj-exceptions --enable-libstdcxx-backtrace
+Thread model: single
+Supported LTO compression algorithms: zlib
+gcc version 14.0.0 20230617 (experimental) (GCC)
